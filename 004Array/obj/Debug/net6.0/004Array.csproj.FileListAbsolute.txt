@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\bin\Debug\net6.0\004Array.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\bin\Debug\net6.0\004Array.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\bin\Debug\net6.0\004Array.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\bin\Debug\net6.0\004Array.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\bin\Debug\net6.0\004Array.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\refint\004Array.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\004Array.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\004Array\obj\Debug\net6.0\ref\004Array.dll
