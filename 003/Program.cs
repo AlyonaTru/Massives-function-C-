@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// задачка на поиск элемента массива
 int[] array = {1, 2, 3, 4, 8, 5, 6, 7, 8};
 
 int n = array.Length;
