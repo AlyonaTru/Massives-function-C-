@@ -4,7 +4,7 @@
 // 34, 5 -> не кратно, остаток 4 
 // 16, 4 -> кратно
 
-void Zadacha0012()
+void Zadacha012()
 {
 Console.WriteLine("Введите число 1: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -21,4 +21,4 @@ else
     Console.WriteLine($"Результ: некратно, остаток = {a % b}" );
 }
 }
-Zadacha0012();
+Zadacha012();
