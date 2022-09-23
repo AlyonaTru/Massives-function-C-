@@ -9,15 +9,14 @@
 void Zadacha013() 
 {
     Console.WriteLine("Введите число : ");
-    string number = Console.ReadLine();
-    char[] ch = number.ToCharArray();
+    string number = Console.ReadLine(); // текстовая строка
+    char[] ch = number.ToCharArray(); // функция ToCharArray
     int length = number.Length;
     
     if (ch[0] == '-') 
-    {
+       {
             Console.WriteLine(ch[3]);
-    }
-    
+       }
     else if (length < 3)
         {
            Console.WriteLine("Третьей цифры нет");
@@ -26,7 +25,7 @@ void Zadacha013()
     
     else 
         {
-           Console.WriteLine( ch[2]);
-                  }
+           Console.WriteLine(ch[2]);
+        }
 }
 Zadacha013();
