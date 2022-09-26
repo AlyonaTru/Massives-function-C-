@@ -17,6 +17,5 @@ while (i <= a)
     Console.WriteLine($"|{i}|{Sqw}|");
     i++;
 }
-
 }
 Zadacha022();
