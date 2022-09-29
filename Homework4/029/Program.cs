@@ -4,20 +4,21 @@
 void Zadacha029()
 {
     Random random = new Random();
-    int size = random.Next(1, 100);
-    int [] numbers = new int [size];
+    int size = random.Next(1, 10);
+    int[] numbers = new int [size];
     Console.WriteLine($"размер массива = {size}");
-   
-  
 
-   
-// for (int i = 0; i < size; i++)
-// {
-//     Console.WriteLine(numbers[i] + "\t");
-// }
+    for (int i= 0; i <size; i++)
+    {
+        numbers[i] = random.Next(0,15);
+    }
 
-// Console.WriteLine();
+    for (int i = 0; i < size; i++)
+    {
+    Console.Write($"[ {numbers[i]} ]");
+    }
 
+Console.WriteLine();
 
 }
 Zadacha029();
