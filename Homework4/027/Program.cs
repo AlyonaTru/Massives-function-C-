@@ -17,9 +17,8 @@ result = result + digit;
 
 }
 
-{
-    Console.WriteLine("Ошибка ввода.");
-}
-Console.WriteLine(result);
+
+
+Console.WriteLine($"Сумма цифр в числе = {result}");
 }
 Zadacha027();
