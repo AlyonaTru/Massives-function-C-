@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\bin\Debug\net6.0\Tablitsa_umnozh.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\bin\Debug\net6.0\Tablitsa_umnozh.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\bin\Debug\net6.0\Tablitsa_umnozh.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\bin\Debug\net6.0\Tablitsa_umnozh.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\bin\Debug\net6.0\Tablitsa_umnozh.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\refint\Tablitsa_umnozh.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\Tablitsa_umnozh.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Tablitsa_umnozh\obj\Debug\net6.0\ref\Tablitsa_umnozh.dll
