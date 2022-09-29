@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\bin\Debug\net6.0\029.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\bin\Debug\net6.0\029.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\bin\Debug\net6.0\029.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\bin\Debug\net6.0\029.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\bin\Debug\net6.0\029.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\refint\029.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\029.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework4\029\obj\Debug\net6.0\ref\029.dll
