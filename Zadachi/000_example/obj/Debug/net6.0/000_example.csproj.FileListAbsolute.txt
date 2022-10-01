@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\bin\Debug\net6.0\000_example.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\bin\Debug\net6.0\000_example.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\bin\Debug\net6.0\000_example.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\bin\Debug\net6.0\000_example.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\bin\Debug\net6.0\000_example.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\refint\000_example.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\000_example.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Tasks\000_example\obj\Debug\net6.0\ref\000_example.dll
