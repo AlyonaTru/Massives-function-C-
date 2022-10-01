@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\bin\Debug\net6.0\Symbol change.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\bin\Debug\net6.0\Symbol change.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\bin\Debug\net6.0\Symbol change.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\bin\Debug\net6.0\Symbol change.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\bin\Debug\net6.0\Symbol change.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\refint\Symbol change.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\Symbol change.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Obrabotka texta\Symbol change\obj\Debug\net6.0\ref\Symbol change.dll

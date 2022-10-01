@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\bin\Debug\net6.0\Extra3.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\bin\Debug\net6.0\Extra3.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\bin\Debug\net6.0\Extra3.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\bin\Debug\net6.0\Extra3.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\bin\Debug\net6.0\Extra3.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\refint\Extra3.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\Extra3.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Extra3\obj\Debug\net6.0\ref\Extra3.dll

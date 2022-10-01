@@ -1,0 +1,5 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework3\Extra2\obj\Debug\net6.0\Extra2.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework3\Extra2\obj\Debug\net6.0\Extra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework3\Extra2\obj\Debug\net6.0\Extra2.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework3\Extra2\obj\Debug\net6.0\Extra2.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Homework3\Extra2\obj\Debug\net6.0\Extra2.csproj.CoreCompileInputs.cache
