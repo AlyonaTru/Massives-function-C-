@@ -25,9 +25,10 @@ void PrintArray(int[]numbers)
     Console.WriteLine("Вывод массива");
     for (int i =0; i<numbers.Length; i++)
     {
-        Console.WriteLine(numbers[i] + "");
+        Console.WriteLine(numbers[i] + " ");
     }
-} Console.WriteLine();
+    Console.WriteLine();
+}
 
 int GetSumPositive(int[]numbers)
 {
