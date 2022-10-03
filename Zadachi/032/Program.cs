@@ -8,8 +8,9 @@ void Zadacha032()
     
     FillArray(numbers);
     PrintArray(numbers); // вызов двух методов
-   
+    SwapArray(numbers);
 }
+Zadacha032();
 
 void FillArray(int[]numbers)
 {
@@ -25,7 +26,24 @@ void PrintArray(int[]numbers)
     Console.WriteLine("Вывод массива");
     for (int i =0; i<numbers.Length; i++)
     {
-        Console.WriteLine(numbers[i] + " ");
+        Console.Write(numbers[i] + " ");
     }
     Console.WriteLine();
+}
+
+void SwapArray(int[]numbers)
+{
+    for (int i =0; i< numbers.Length; i++)
+      {
+         if (numbers[i] <0)
+         {
+            numbers[i] = Math.Abs(numbers[i]);
+         }
+           else
+         {
+            numbers[i] = -numbers[i];
+         }
+         Console.Write(numbers[i] + " ");
+      }
+      
 }
