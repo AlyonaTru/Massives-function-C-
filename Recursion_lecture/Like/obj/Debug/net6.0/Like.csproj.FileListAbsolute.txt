@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\bin\Debug\net6.0\Like.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\bin\Debug\net6.0\Like.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\bin\Debug\net6.0\Like.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\bin\Debug\net6.0\Like.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\bin\Debug\net6.0\Like.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\refint\Like.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\Like.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Like\obj\Debug\net6.0\ref\Like.dll

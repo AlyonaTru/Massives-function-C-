@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\bin\Debug\net6.0\String+matrix.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\bin\Debug\net6.0\String+matrix.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\bin\Debug\net6.0\String+matrix.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\bin\Debug\net6.0\String+matrix.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\bin\Debug\net6.0\String+matrix.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\refint\String+matrix.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\String+matrix.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\String+matrix\obj\Debug\net6.0\ref\String+matrix.dll

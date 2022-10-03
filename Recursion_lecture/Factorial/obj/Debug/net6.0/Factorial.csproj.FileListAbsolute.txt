@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Recursion_lecture\Factorial\obj\Debug\net6.0\ref\Factorial.dll
