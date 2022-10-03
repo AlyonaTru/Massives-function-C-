@@ -38,7 +38,7 @@ void ChangeValueArray(int[]numbers)
       {
          if (numbers[i] <0)
          {
-            numbers[i] = Math.Abs(numbers[i]);
+            numbers[i] = Math.Abs(numbers[i]);   // или просто = numbers[i]*-1;
          }
            else
          {
