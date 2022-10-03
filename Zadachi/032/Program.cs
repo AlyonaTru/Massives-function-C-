@@ -8,7 +8,7 @@ void Zadacha032()
     
     FillArray(numbers);
     PrintArray(numbers); // вызов двух методов
-    SwapArray(numbers);
+    ChangeValueArray(numbers);
 }
 Zadacha032();
 
@@ -31,7 +31,7 @@ void PrintArray(int[]numbers)
     Console.WriteLine();
 }
 
-void SwapArray(int[]numbers)
+void ChangeValueArray(int[]numbers)
 {
     Console.WriteLine("Вывод перевернутого массива: ");
     for (int i =0; i< numbers.Length; i++)
