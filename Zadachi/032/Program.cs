@@ -33,6 +33,7 @@ void PrintArray(int[]numbers)
 
 void SwapArray(int[]numbers)
 {
+    Console.WriteLine("Вывод перевернутого массива: ");
     for (int i =0; i< numbers.Length; i++)
       {
          if (numbers[i] <0)
