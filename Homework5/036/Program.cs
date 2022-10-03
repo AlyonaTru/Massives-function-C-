@@ -38,11 +38,11 @@ void SumUnevenIndex(int[]numbers)
     int sum =0;
     for (int i =0; i< numbers.Length; i++)
       {
-            if (numbers[i]%2 ==0)
+            if (i % 2 == 1)
         {
-            sum = sum+ numbers[i];
+            sum = sum + numbers[i];
         }
         }
-    Console.WriteLine($"сумма четных элементов =  {sum} .");   
+    Console.WriteLine($"сумма нечетных элементов =  {sum} .");   
        
 }
