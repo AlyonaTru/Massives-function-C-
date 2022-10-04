@@ -18,7 +18,7 @@ void FillArray(double[]numbers)
     for (int i =0; i< numbers.Length; i++)
     {
         numbers[i] = random.NextDouble();
-        numbers[i] = Math.Round(numbers[i], 3);
+        numbers[i] = Math.Round(numbers[i],3);
         
     }
 }
