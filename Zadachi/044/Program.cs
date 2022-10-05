@@ -10,9 +10,7 @@ void Zadacha044()
   int size = Convert.ToInt32(Console.ReadLine());
   int a = 0;
   int b = 1;
-  int[] numbers = new int [size];
-  PrintArray(numbers);
-
+  double[] numbers = new double [size];
   numbers[0] = a;
   numbers[1] = b;
 
@@ -21,11 +19,8 @@ void Zadacha044()
     numbers[i] = numbers[i-2] + numbers[i-1];
   }
    PrintArray(numbers);
-
-}
-Zadacha044();
-
-void PrintArray(int[]numbers)
+   
+void PrintArray2(int[]numbers)
 {
     Console.WriteLine("Вывод массива");
     for (int i =0; i<numbers.Length; i++)
@@ -34,3 +29,14 @@ void PrintArray(int[]numbers)
     }
     Console.WriteLine();
 }
+void PrintArray(double[]numbers)
+{
+    Console.WriteLine("Вывод массива");
+    for (int i =0; i<numbers.Length; i++)
+    {
+        Console.Write(numbers[i] + " ");
+    }
+    Console.WriteLine();
+}
+}
+Zadacha044();
