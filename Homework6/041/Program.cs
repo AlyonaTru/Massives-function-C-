@@ -4,7 +4,7 @@
 
 void Zadacha041()
 {
-    Console.WriteLine("Введите несколько полжительных и отрицательных чисел через пробел:");
+    Console.WriteLine("Введите несколько положительных и отрицательных чисел через пробел:");
     int[]numbers = Array.ConvertAll(Console.ReadLine().Split(),int.Parse);
     PrintArray(numbers); 
     Console.WriteLine(GetPositiveNumbers(numbers));
