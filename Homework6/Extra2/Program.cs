@@ -40,17 +40,19 @@ void  DoubleNumbersSwap(int[]numbers)
     Random rand = new Random ();
     int maxIndex = size-1;
    
-            for (int i = 0; numbers[i] < numbers[maxIndex]; i++)
+            for (int i = 0; i < maxIndex; i++)
             {
             if (numbers[i] == numbers[i+1])
-        {
+            {
             numbers[i] = rand.Next(80, 100);
             find = true;
             
         }
             }
+
+        
         if(find == true)
-        Console.WriteLine($"Вывод массива после замены: {numbers}");        
+        PrintArray(numbers);  
         
         else
         Console.WriteLine("замена не требуется");     
