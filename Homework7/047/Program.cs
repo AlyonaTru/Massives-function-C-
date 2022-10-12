@@ -34,7 +34,7 @@ void FillArray(double[,] numbers)
     {
         for (int j = 0; j< columns; j++)
         {
-         numbers[i,j] = Convert.ToDouble(random.Next(-10, 11)/10.0); 
+         numbers[i,j] = Convert.ToDouble(random.Next(-100, 101)/10.0); 
         }
         }
 }
