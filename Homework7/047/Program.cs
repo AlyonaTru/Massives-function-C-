@@ -25,7 +25,7 @@ void Zadacha047()
 
 Zadacha047();
 
-void FillArray(int[,] numbers)
+void FillArray(double[,] numbers)
 {
     Random random = new Random ();
     int rows = numbers.GetLength(0);
@@ -34,7 +34,7 @@ void FillArray(int[,] numbers)
     {
         for (int j = 0; j< columns; j++)
         {
-         numbers[i,j] = random.Next(-10, 11);
+         numbers[i,j] = Convert.ToDouble(random.Next(-10, 11)/10.0); 
         }
         }
 }
