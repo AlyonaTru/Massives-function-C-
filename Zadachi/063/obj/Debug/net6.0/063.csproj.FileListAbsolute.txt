@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.AssemblyInfo.cs
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\bin\Debug\net6.0\063.exe
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\bin\Debug\net6.0\063.deps.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\bin\Debug\net6.0\063.runtimeconfig.json
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\bin\Debug\net6.0\063.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\bin\Debug\net6.0\063.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\refint\063.dll
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.pdb
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\063.genruntimeconfig.cache
+C:\Users\Professional\Desktop\GIT\C# практика\Massives\Zadachi\063\obj\Debug\net6.0\ref\063.dll
