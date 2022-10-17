@@ -2,24 +2,16 @@
 // в промежутке от M до N с помощью рекурсии. M = 1; N = 15 -> 120   M = 4; N = 8 -> 30
 
 Console.WriteLine("Введите число 1: ");
-int num1 = Convert.ToInt32(Console.ReadLine());  
+int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 2: ");
-int num2 = Convert.ToInt32(Console.ReadLine()); 
+int num2 = Convert.ToInt32(Console.ReadLine());
+
+if (num1 >= num2)
+{
+Console.WriteLine("Некорректное значение, число 1 должно быть меньше, или равно числа 2");
+}
+
 Console.WriteLine(SumNum(num1, num2));
-
-
-SumNum(num1, num2);
-if (num1 >=num2)
-    {
-        Console.WriteLine("Некорректное значение, число 1 должно быть меньше числа 2");
-    }
-    if (num1 <= num2)
-    {
-        if (num1 - num2 == 0)
-        {
-            Console.WriteLine($"Сумма элементов равна {num1}");
-        }
-    }
 
 int SumNum(int num1, int num2)
 {
